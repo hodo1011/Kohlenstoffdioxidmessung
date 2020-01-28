@@ -1,5 +1,7 @@
-//Hodo1011  Dieser Code liest den MQ9Sensor aus, löst zum richtigen Zeitpunkt einen Alarm aus und gibt die Werte auf dem Handy aus
-//zur Messung habe ich im Programmteil 2 eines Ausgangsmesswert (in frischer Luft) erstellt und die realen Messwerte mit der Ausgangsmessung verglichen
+/*Hodo1011  Dieser Code liest den MQ9Sensor aus, löst zum richtigen Zeitpunkt einen Alarm aus und
+gibt die Werte auf dem Handy aus
+-zur Messung habe ich im Programmteil 2 eines Ausgangsmesswert (in frischer Luft) erstellt und 
+die realen Messwerte mit der Ausgangsmessung verglichen*/
 
 
 
